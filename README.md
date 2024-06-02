@@ -11,7 +11,7 @@ El repositorio está organizado en carpetas, cada una correspondiente a un curso
 
 1. **Clonar el repositorio**: Usa el siguiente comando para clonar este repositorio en tu máquina local.
     ```bash
-    git clone https://github.com/tu-usuario/freecodecamp-projects.git
+    git clone https://github.com/JuanBap/FCCProjects.git
     ```
 2. **Navegar a la carpeta del proyecto**: Cada proyecto tiene su propia carpeta. Puedes navegar a la carpeta del proyecto que te interese para ver el código fuente.
     ```bash
@@ -70,6 +70,6 @@ Este repositorio está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICEN
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu-email@example.com](mailto:tu-email@example.com).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [canonjp@javeriana.edu.co](mailto:canonjp@javeriana.edu.co).
 
-¡Gracias por visitar este repositorio y feliz codificación!
+¡Gracias por visitar este repositorio y feliz día!
